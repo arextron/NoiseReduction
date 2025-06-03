@@ -1,6 +1,6 @@
 # Noise Reduction Using Neural Networks
 Members of the team:
-|  |  Full Name  | Student ID |
+|  |  Full Name  |   
 | :---: | :---: | :----: |
 | 1   | Aryan Awasthi |  
 | 2   | Muqaddas Preet Singh |  
