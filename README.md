@@ -2,9 +2,9 @@
 Members of the team:
 |  |  Full Name  | Student ID |
 | :---: | :---: | :----: |
-| 1   | Aryan Awasthi | 40278847 |
-| 2   | Muqaddas Preet Singh | 40276333 |
-| 3   | Harsukhvir Singh Grewal | 40310953 |
+| 1   | Aryan Awasthi |  
+| 2   | Muqaddas Preet Singh |  
+| 3   | Harsukhvir Singh Grewal |  
 
 Selected Papers/Documents that you can start with:
 - [Development of Neural Networks for Noise Reduction](https://ccis2k.org/iajit/PDF/vol.7,no.3/945.pdf)
