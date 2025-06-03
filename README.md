@@ -21,19 +21,6 @@ Added Papers:
 - [Noise removal from Audio using CNN and Denoiser](https://immohann.github.io/Portfolio/Denoiser.pdf)
 
 
-**Note**: If you need more papers, let me (Omid Reza Heidari) know, or if you have any other related papers, feel free to add to the list.
-
-**Note**: There are tones of papers about this topic, and thus, it might be hard to propose a new algorithm. Personally speaking, a comprehensive review could be easier and more beneficial (It goes without saying that the final decision will be with three of you!).
-  
-|  |  Stage  | Deadline |
-| :---: | :---: | :----: |
-| 1   | Project Proposal<sup>*</sup> Submission | End of October |
-| 2   | Project Report<sup>*</sup> Submission | 3rd of December |
-| 3   | Project Presentation | Last week of classes |
-
-<sup>*</sup> The structure of the reports is outlined in the `Course Outline` document that the professor has been published in the Moodle.
-
-
 # Trasient Noise Reduction with Neural Networks
 
 This repository contains implementations of different deep learning models for transient noise reduction in audio signals. The models are applied to the [CSTR VCTK dataset](https://datashare.ed.ac.uk/handle/10283/3443) to preprocess and enhance audio quality. The `.wav` files in the dataset are stored in the `wav48` folder inside subdirectories named `p225` to `p271`.
